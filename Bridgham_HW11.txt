@@ -1,0 +1,44 @@
+Project Name: Hands on Exercises 3.1-3.4 (HW11)
+Author: Cassidy Bridgham
+Date Last Modified: 4/22/19
+
+1. 
+<body style="background-color: #00FF00; color: #FFFFFF;">
+<p> This sentence would have a green background and white colored font. </p>
+</body> 
+
+2.
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<head>
+<title> Homework 11</title>
+<meta charset="utf-8">
+<style>
+body{background color: #EAEAEA; 
+color: #000033;}
+</style>
+</head>
+</body>
+</html>
+
+3. 
+body{color: #A52A2A;
+font-size: 1.2em;
+font-family: Arila, Verdana, sans-serif;}
+
+4. 
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<head>
+<title>Homework 11</title>
+<meta charset="utf-8">
+<style>
+.new{font-weight: bold;
+font-style: italic;}
+</style>
+</head>
+<p><li class="new"> This text will be bold and italicized.</li></p>
+</body>
+</html> 
