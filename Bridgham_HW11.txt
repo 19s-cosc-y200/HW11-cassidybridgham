@@ -7,6 +7,8 @@ Date Last Modified: 4/22/19
 <p> This sentence would have a green background and white colored font. </p>
 </body> 
 
+apply to p tag
+
 2.
 <!DOCTYPE html>
 <html lang="en">
@@ -26,6 +28,8 @@ color: #000033;}
 body{color: #A52A2A;
 font-size: 1.2em;
 font-family: Arila, Verdana, sans-serif;}
+
+font spelling
 
 4. 
 <!DOCTYPE html>
